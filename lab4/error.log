@@ -1,0 +1,1256 @@
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.292154] ACPI: EC: interrupt blocked
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.312122] ACPI: Preparing to enter system sleep state S3
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.315574] ACPI: EC: event blocked
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.315576] ACPI: EC: EC stopped
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.383189] ACPI: Low-level resume complete
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.383242] ACPI: EC: EC started
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.399578] ACPI: Waking up from system sleep state S3
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.414213] ACPI: EC: interrupt unblocked
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.435533] ACPI: EC: event unblocked
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.388074] ACPI: EC: interrupt blocked
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.407966] ACPI: Preparing to enter system sleep state S3
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.411571] ACPI: EC: event blocked
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.411573] ACPI: EC: EC stopped
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.478916] ACPI: Low-level resume complete
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.478972] ACPI: EC: EC started
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.493515] ACPI: Waking up from system sleep state S3
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.505850] ACPI: EC: interrupt unblocked
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.530435] ACPI: EC: event unblocked
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.613369] ACPI: EC: interrupt blocked
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.633002] ACPI: Preparing to enter system sleep state S3
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.636687] ACPI: EC: event blocked
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.636688] ACPI: EC: EC stopped
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.703960] ACPI: Low-level resume complete
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.704017] ACPI: EC: EC started
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.718520] ACPI: Waking up from system sleep state S3
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.730890] ACPI: EC: interrupt unblocked
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.752143] ACPI: EC: event unblocked
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.337547] ACPI: EC: interrupt blocked
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.356841] ACPI: Preparing to enter system sleep state S3
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.360564] ACPI: EC: event blocked
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.360566] ACPI: EC: EC stopped
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.427735] ACPI: Low-level resume complete
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.427791] ACPI: EC: EC started
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.442337] ACPI: Waking up from system sleep state S3
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.454681] ACPI: EC: interrupt unblocked
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.479176] ACPI: EC: event unblocked
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6eef000-0x00000000c6f9efff] ACPI NVS
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6f9f000-0x00000000c6ffefff] ACPI data
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: RSDP 0x00000000000F0120 000024 (v02 ACRSYS)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: XSDT 0x00000000C6FFE170 0000AC (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACP 0x00000000C6FED000 00010C (v05 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DSDT 0x00000000C6FF0000 00C539 (v02 ACRSYS IVB-CPT  00000000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACS 0x00000000C6F7C000 000040
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FFD000 0001F9 (v01 ACRSYS PtidDevc 00001000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: ASF! 0x00000000C6FEF000 0000A5 (v32 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET 0x00000000C6FEC000 000038 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: APIC 0x00000000C6FEB000 000098 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MCFG 0x00000000C6FEA000 00003C (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: WPBT 0x00000000C6FDB000 000046 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FPDT 0x00000000C6FDA000 000064 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD9000 0008E4 (v01 PmRef  Cpu0Ist  00003000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD8000 000B22 (v01 PmRef  CpuPm    00003000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD7000 00003E (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD6000 000042 (v01 PTL    COMBUF   00000001 PTL  00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MSDM 0x00000000C6F79000 000055 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DMAR 0x00000000C6FD5000 0000B8 (v01 INTEL  SNB      00000001 INTL 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD4000 000C64 (v01 NvORef NvOptTbl 00001000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD3000 00026A (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DBG2 0x00000000C6FD1000 0000B4 (v00 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x408
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ0 used by override.
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ9 used by override.
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET id: 0x8086a301 base: 0xfed00000
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Core revision 20170831
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: 5 ACPI AML tables successfully acquired and loaded
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.040816] PM: Registering ACPI NVS region [mem 0xc6eef000-0xc6f9efff] (720896 bytes)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.040816] ACPI: bus type PCI registered
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.040816] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Module Device)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Processor Device)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(3.0 _SCP Extensions)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Processor Aggregator Device)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Linux-Dell-Video)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044112] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044351] ACPI: Executed 1 blocks of module-level executable AML code
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.073810] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.073810] ACPI: Dynamic OEM Table Load:
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.073810] ACPI: SSDT 0xFFFF9320E77FE000 00083B (v01 PmRef  Cpu0Cst  00003001 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.073815] ACPI: Dynamic OEM Table Load:
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.073815] ACPI: SSDT 0xFFFF9320E702A000 000303 (v01 PmRef  ApIst    00003000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.076312] ACPI: Dynamic OEM Table Load:
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.076319] ACPI: SSDT 0xFFFF9320E7068000 000119 (v01 PmRef  ApCst    00003000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.077978] ACPI: EC: EC started
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.077979] ACPI: EC: interrupt blocked
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088115] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088118] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088120] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088121] ACPI: Interpreter enabled
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088158] ACPI: (supports S0 S3 S4 S5)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088159] ACPI: Using IOAPIC for interrupt routing
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088203] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088594] ACPI: Enabled 7 GPEs in block 00 to 3F
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.101604] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-3e])
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141000] ACPI: PCI Interrupt Link [LNKA] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141119] ACPI: PCI Interrupt Link [LNKB] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141237] ACPI: PCI Interrupt Link [LNKC] (IRQs 1 3 4 5 6 10 11 12 14 15) *7
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141352] ACPI: PCI Interrupt Link [LNKD] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141466] ACPI: PCI Interrupt Link [LNKE] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141581] ACPI: PCI Interrupt Link [LNKF] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141696] ACPI: PCI Interrupt Link [LNKG] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141811] ACPI: PCI Interrupt Link [LNKH] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142181] ACPI: EC: interrupt unblocked
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142190] ACPI: EC: event unblocked
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142197] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142200] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142523] ACPI: bus type USB registered
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142523] PCI: Using ACPI for IRQ routing
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.158757] pnp: PnP ACPI init
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159009] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159047] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159141] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159262] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159295] pnp 00:04: Plug and Play ACPI device, IDs ETD0504 PNP0f13 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159571] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.160046] pnp: PnP ACPI: found 6 devices
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.372260] ACPI: AC Adapter [ADP1] (on-line)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.372380] ACPI: Lid Switch [LID0]
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.372466] ACPI: Sleep Button [SLPB]
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.372538] ACPI: Power Button [PWRF]
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.374062] ACPI: Thermal Zone [TZS0] (39 C)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.374497] ACPI: Thermal Zone [TZS1] (26 C)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.375691] ACPI: Battery Slot [BAT0] (battery present)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.647043] ACPI Warning: \_SB.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.647554] ACPI Warning: \_SB.PCI0.PEG0.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    3.307000] ACPI: Video Device [PEGP] (multi-head: yes  rom: yes  post: no)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    3.308330] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569023] ACPI Warning: SystemIO range 0x0000000000000428-0x000000000000042F conflicts with OpRegion 0x0000000000000400-0x000000000000047F (\PMIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569032] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569035] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569042] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569048] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569050] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569056] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569062] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569063] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569070] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569075] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.660258] acer_wmi: Acer Laptop ACPI-WMI Extras
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.783935] ACPI: EC: interrupt blocked
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.804065] ACPI: Preparing to enter system sleep state S3
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.807533] ACPI: EC: event blocked
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.807534] ACPI: EC: EC stopped
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.875131] ACPI: Low-level resume complete
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.875192] ACPI: EC: EC started
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.889528] ACPI: Waking up from system sleep state S3
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.902054] ACPI: EC: interrupt unblocked
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.923255] ACPI: EC: event unblocked
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6eef000-0x00000000c6f9efff] ACPI NVS
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6f9f000-0x00000000c6ffefff] ACPI data
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: RSDP 0x00000000000F0120 000024 (v02 ACRSYS)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: XSDT 0x00000000C6FFE170 0000AC (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACP 0x00000000C6FED000 00010C (v05 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DSDT 0x00000000C6FF0000 00C539 (v02 ACRSYS IVB-CPT  00000000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACS 0x00000000C6F7C000 000040
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FFD000 0001F9 (v01 ACRSYS PtidDevc 00001000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: ASF! 0x00000000C6FEF000 0000A5 (v32 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET 0x00000000C6FEC000 000038 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: APIC 0x00000000C6FEB000 000098 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MCFG 0x00000000C6FEA000 00003C (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: WPBT 0x00000000C6FDB000 000046 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FPDT 0x00000000C6FDA000 000064 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD9000 0008E4 (v01 PmRef  Cpu0Ist  00003000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD8000 000B22 (v01 PmRef  CpuPm    00003000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD7000 00003E (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD6000 000042 (v01 PTL    COMBUF   00000001 PTL  00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MSDM 0x00000000C6F79000 000055 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DMAR 0x00000000C6FD5000 0000B8 (v01 INTEL  SNB      00000001 INTL 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD4000 000C64 (v01 NvORef NvOptTbl 00001000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD3000 00026A (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DBG2 0x00000000C6FD1000 0000B4 (v00 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x408
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ0 used by override.
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ9 used by override.
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET id: 0x8086a301 base: 0xfed00000
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Core revision 20170831
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: 5 ACPI AML tables successfully acquired and loaded
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.040812] PM: Registering ACPI NVS region [mem 0xc6eef000-0xc6f9efff] (720896 bytes)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.040812] ACPI: bus type PCI registered
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.040812] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044105] ACPI: Added _OSI(Module Device)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044105] ACPI: Added _OSI(Processor Device)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044107] ACPI: Added _OSI(3.0 _SCP Extensions)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044108] ACPI: Added _OSI(Processor Aggregator Device)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044109] ACPI: Added _OSI(Linux-Dell-Video)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044112] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044347] ACPI: Executed 1 blocks of module-level executable AML code
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.073808] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.073808] ACPI: Dynamic OEM Table Load:
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.073808] ACPI: SSDT 0xFFFFA0C1677F9000 00083B (v01 PmRef  Cpu0Cst  00003001 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.073812] ACPI: Dynamic OEM Table Load:
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.073812] ACPI: SSDT 0xFFFFA0C16702E400 000303 (v01 PmRef  ApIst    00003000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.076298] ACPI: Dynamic OEM Table Load:
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.076306] ACPI: SSDT 0xFFFFA0C16706B000 000119 (v01 PmRef  ApCst    00003000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.077955] ACPI: EC: EC started
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.077955] ACPI: EC: interrupt blocked
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088120] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088123] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088125] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088126] ACPI: Interpreter enabled
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088162] ACPI: (supports S0 S3 S4 S5)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088163] ACPI: Using IOAPIC for interrupt routing
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088207] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088597] ACPI: Enabled 7 GPEs in block 00 to 3F
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.101608] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-3e])
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141000] ACPI: PCI Interrupt Link [LNKA] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141119] ACPI: PCI Interrupt Link [LNKB] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141237] ACPI: PCI Interrupt Link [LNKC] (IRQs 1 3 4 5 6 10 11 12 14 15) *7
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141353] ACPI: PCI Interrupt Link [LNKD] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141467] ACPI: PCI Interrupt Link [LNKE] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141582] ACPI: PCI Interrupt Link [LNKF] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141697] ACPI: PCI Interrupt Link [LNKG] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141812] ACPI: PCI Interrupt Link [LNKH] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142181] ACPI: EC: interrupt unblocked
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142190] ACPI: EC: event unblocked
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142197] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142200] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142522] ACPI: bus type USB registered
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142522] PCI: Using ACPI for IRQ routing
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.158839] pnp: PnP ACPI init
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159086] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159124] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159219] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159341] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159374] pnp 00:04: Plug and Play ACPI device, IDs ETD0504 PNP0f13 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159650] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.160125] pnp: PnP ACPI: found 6 devices
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.372459] ACPI: AC Adapter [ADP1] (off-line)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.372579] ACPI: Lid Switch [LID0]
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.372652] ACPI: Sleep Button [SLPB]
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.372721] ACPI: Power Button [PWRF]
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.374185] ACPI: Thermal Zone [TZS0] (37 C)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.374618] ACPI: Thermal Zone [TZS1] (24 C)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.376292] ACPI: Battery Slot [BAT0] (battery present)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.669157] ACPI Warning: \_SB.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.669665] ACPI Warning: \_SB.PCI0.PEG0.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    3.327002] ACPI: Video Device [PEGP] (multi-head: yes  rom: yes  post: no)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    3.328299] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.920079] ACPI Warning: SystemIO range 0x0000000000000428-0x000000000000042F conflicts with OpRegion 0x0000000000000400-0x000000000000047F (\PMIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.920089] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.920093] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921033] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921039] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921042] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921047] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921052] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921054] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921059] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921064] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    6.008087] acer_wmi: Acer Laptop ACPI-WMI Extras
+Oct 20 10:43:45 cipi-Aspire-V5-571G kernel: [66225.830203] ACPI: EC: interrupt blocked
+Oct 20 10:43:45 cipi-Aspire-V5-571G kernel: [66225.849302] ACPI: Preparing to enter system sleep state S3
+Oct 20 10:43:45 cipi-Aspire-V5-571G kernel: [66225.853137] ACPI: EC: event blocked
+Oct 20 10:43:45 cipi-Aspire-V5-571G kernel: [66225.853139] ACPI: EC: EC stopped
+Oct 20 10:43:45 cipi-Aspire-V5-571G kernel: [66225.920183] ACPI: Low-level resume complete
+Oct 20 10:43:45 cipi-Aspire-V5-571G kernel: [66225.920244] ACPI: EC: EC started
+Oct 20 10:43:45 cipi-Aspire-V5-571G kernel: [66225.934847] ACPI: Waking up from system sleep state S3
+Oct 20 10:43:45 cipi-Aspire-V5-571G kernel: [66225.947102] ACPI: EC: interrupt unblocked
+Oct 20 10:43:45 cipi-Aspire-V5-571G kernel: [66225.968375] ACPI: EC: event unblocked
+Oct 20 15:57:21 cipi-Aspire-V5-571G kernel: [79539.607427] ACPI: EC: interrupt blocked
+Oct 20 15:57:21 cipi-Aspire-V5-571G kernel: [79539.626843] ACPI: Preparing to enter system sleep state S3
+Oct 20 15:57:21 cipi-Aspire-V5-571G kernel: [79539.630716] ACPI: EC: event blocked
+Oct 20 15:57:21 cipi-Aspire-V5-571G kernel: [79539.630717] ACPI: EC: EC stopped
+Oct 20 15:57:21 cipi-Aspire-V5-571G kernel: [79539.697709] ACPI: Low-level resume complete
+Oct 20 15:57:21 cipi-Aspire-V5-571G kernel: [79539.697772] ACPI: EC: EC started
+Oct 20 15:57:21 cipi-Aspire-V5-571G kernel: [79539.712104] ACPI: Waking up from system sleep state S3
+Oct 20 15:57:21 cipi-Aspire-V5-571G kernel: [79539.724633] ACPI: EC: interrupt unblocked
+Oct 20 15:57:21 cipi-Aspire-V5-571G kernel: [79539.745778] ACPI: EC: event unblocked
+Oct 21 13:34:08 cipi-Aspire-V5-571G kernel: [109338.044025] ACPI: EC: interrupt blocked
+Oct 21 13:34:08 cipi-Aspire-V5-571G kernel: [109338.063686] ACPI: Preparing to enter system sleep state S3
+Oct 21 13:34:08 cipi-Aspire-V5-571G kernel: [109338.067298] ACPI: EC: event blocked
+Oct 21 13:34:08 cipi-Aspire-V5-571G kernel: [109338.067299] ACPI: EC: EC stopped
+Oct 21 13:34:08 cipi-Aspire-V5-571G kernel: [109338.134633] ACPI: Low-level resume complete
+Oct 21 13:34:08 cipi-Aspire-V5-571G kernel: [109338.134693] ACPI: EC: EC started
+Oct 21 13:34:08 cipi-Aspire-V5-571G kernel: [109338.149212] ACPI: Waking up from system sleep state S3
+Oct 21 13:34:08 cipi-Aspire-V5-571G kernel: [109338.165452] ACPI: EC: interrupt unblocked
+Oct 21 13:34:08 cipi-Aspire-V5-571G kernel: [109338.186790] ACPI: EC: event unblocked
+Oct 21 16:03:30 cipi-Aspire-V5-571G kernel: [112861.426649] ACPI: EC: interrupt blocked
+Oct 21 16:03:30 cipi-Aspire-V5-571G kernel: [112861.445928] ACPI: Preparing to enter system sleep state S3
+Oct 21 16:03:30 cipi-Aspire-V5-571G kernel: [112861.449704] ACPI: EC: event blocked
+Oct 21 16:03:30 cipi-Aspire-V5-571G kernel: [112861.449706] ACPI: EC: EC stopped
+Oct 21 16:03:30 cipi-Aspire-V5-571G kernel: [112861.516814] ACPI: Low-level resume complete
+Oct 21 16:03:30 cipi-Aspire-V5-571G kernel: [112861.516872] ACPI: EC: EC started
+Oct 21 16:03:30 cipi-Aspire-V5-571G kernel: [112861.531244] ACPI: Waking up from system sleep state S3
+Oct 21 16:03:30 cipi-Aspire-V5-571G kernel: [112861.543726] ACPI: EC: interrupt unblocked
+Oct 21 16:03:30 cipi-Aspire-V5-571G kernel: [112861.565018] ACPI: EC: event unblocked
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6eef000-0x00000000c6f9efff] ACPI NVS
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6f9f000-0x00000000c6ffefff] ACPI data
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: RSDP 0x00000000000F0120 000024 (v02 ACRSYS)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: XSDT 0x00000000C6FFE170 0000AC (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACP 0x00000000C6FED000 00010C (v05 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DSDT 0x00000000C6FF0000 00C539 (v02 ACRSYS IVB-CPT  00000000 INTL 20061109)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACS 0x00000000C6F7C000 000040
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FFD000 0001F9 (v01 ACRSYS PtidDevc 00001000 INTL 20061109)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: ASF! 0x00000000C6FEF000 0000A5 (v32 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET 0x00000000C6FEC000 000038 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: APIC 0x00000000C6FEB000 000098 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MCFG 0x00000000C6FEA000 00003C (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: WPBT 0x00000000C6FDB000 000046 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FPDT 0x00000000C6FDA000 000064 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD9000 0008E4 (v01 PmRef  Cpu0Ist  00003000 INTL 20061109)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD8000 000B22 (v01 PmRef  CpuPm    00003000 INTL 20061109)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD7000 00003E (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD6000 000042 (v01 PTL    COMBUF   00000001 PTL  00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MSDM 0x00000000C6F79000 000055 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DMAR 0x00000000C6FD5000 0000B8 (v01 INTEL  SNB      00000001 INTL 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD4000 000C64 (v01 NvORef NvOptTbl 00001000 INTL 20061109)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD3000 00026A (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DBG2 0x00000000C6FD1000 0000B4 (v00 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x408
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ0 used by override.
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ9 used by override.
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET id: 0x8086a301 base: 0xfed00000
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Core revision 20170831
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: 5 ACPI AML tables successfully acquired and loaded
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.040814] PM: Registering ACPI NVS region [mem 0xc6eef000-0xc6f9efff] (720896 bytes)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.040814] ACPI: bus type PCI registered
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.040814] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.044113] ACPI: Added _OSI(Module Device)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.044113] ACPI: Added _OSI(Processor Device)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.044113] ACPI: Added _OSI(3.0 _SCP Extensions)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.044113] ACPI: Added _OSI(Processor Aggregator Device)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.044113] ACPI: Added _OSI(Linux-Dell-Video)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.044113] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.044113] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.044345] ACPI: Executed 1 blocks of module-level executable AML code
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.073809] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.073809] ACPI: Dynamic OEM Table Load:
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.073809] ACPI: SSDT 0xFFFF8E65E77FC000 00083B (v01 PmRef  Cpu0Cst  00003001 INTL 20061109)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.073814] ACPI: Dynamic OEM Table Load:
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.073814] ACPI: SSDT 0xFFFF8E65E702C800 000303 (v01 PmRef  ApIst    00003000 INTL 20061109)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.076305] ACPI: Dynamic OEM Table Load:
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.076313] ACPI: SSDT 0xFFFF8E65E706A000 000119 (v01 PmRef  ApCst    00003000 INTL 20061109)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.077967] ACPI: EC: EC started
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.077967] ACPI: EC: interrupt blocked
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.088114] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.088117] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.088119] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.088120] ACPI: Interpreter enabled
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.088155] ACPI: (supports S0 S3 S4 S5)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.088157] ACPI: Using IOAPIC for interrupt routing
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.088200] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.088592] ACPI: Enabled 7 GPEs in block 00 to 3F
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.101575] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-3e])
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.140998] ACPI: PCI Interrupt Link [LNKA] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.141117] ACPI: PCI Interrupt Link [LNKB] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.141234] ACPI: PCI Interrupt Link [LNKC] (IRQs 1 3 4 5 6 10 11 12 14 15) *7
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.141350] ACPI: PCI Interrupt Link [LNKD] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.141465] ACPI: PCI Interrupt Link [LNKE] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.141580] ACPI: PCI Interrupt Link [LNKF] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.141696] ACPI: PCI Interrupt Link [LNKG] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.141810] ACPI: PCI Interrupt Link [LNKH] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.142177] ACPI: EC: interrupt unblocked
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.142187] ACPI: EC: event unblocked
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.142194] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.142197] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.142520] ACPI: bus type USB registered
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.142520] PCI: Using ACPI for IRQ routing
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.158864] pnp: PnP ACPI init
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.159110] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.159148] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.159243] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.159366] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.159399] pnp 00:04: Plug and Play ACPI device, IDs ETD0504 PNP0f13 (active)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.159675] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    0.160148] pnp: PnP ACPI: found 6 devices
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    1.372378] ACPI: AC Adapter [ADP1] (off-line)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    1.372496] ACPI: Lid Switch [LID0]
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    1.372568] ACPI: Sleep Button [SLPB]
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    1.372635] ACPI: Power Button [PWRF]
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    1.374105] ACPI: Thermal Zone [TZS0] (53 C)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    1.374538] ACPI: Thermal Zone [TZS1] (43 C)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    1.376203] ACPI: Battery Slot [BAT0] (battery present)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    1.644914] ACPI Warning: \_SB.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    1.645579] ACPI Warning: \_SB.PCI0.PEG0.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    3.303054] ACPI: Video Device [PEGP] (multi-head: yes  rom: yes  post: no)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    3.303991] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.635701] ACPI Warning: SystemIO range 0x0000000000000428-0x000000000000042F conflicts with OpRegion 0x0000000000000400-0x000000000000047F (\PMIO) (20170831/utaddress-247)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.635711] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.635714] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.635722] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.635728] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.635729] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.635736] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.635741] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.635743] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.635748] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.635753] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 22 00:11:30 cipi-Aspire-V5-571G kernel: [    5.704581] acer_wmi: Acer Laptop ACPI-WMI Extras
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6eef000-0x00000000c6f9efff] ACPI NVS
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6f9f000-0x00000000c6ffefff] ACPI data
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: RSDP 0x00000000000F0120 000024 (v02 ACRSYS)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: XSDT 0x00000000C6FFE170 0000AC (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACP 0x00000000C6FED000 00010C (v05 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DSDT 0x00000000C6FF0000 00C539 (v02 ACRSYS IVB-CPT  00000000 INTL 20061109)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACS 0x00000000C6F7C000 000040
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FFD000 0001F9 (v01 ACRSYS PtidDevc 00001000 INTL 20061109)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: ASF! 0x00000000C6FEF000 0000A5 (v32 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET 0x00000000C6FEC000 000038 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: APIC 0x00000000C6FEB000 000098 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MCFG 0x00000000C6FEA000 00003C (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: WPBT 0x00000000C6FDB000 000046 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FPDT 0x00000000C6FDA000 000064 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD9000 0008E4 (v01 PmRef  Cpu0Ist  00003000 INTL 20061109)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD8000 000B22 (v01 PmRef  CpuPm    00003000 INTL 20061109)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD7000 00003E (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD6000 000042 (v01 PTL    COMBUF   00000001 PTL  00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MSDM 0x00000000C6F79000 000055 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DMAR 0x00000000C6FD5000 0000B8 (v01 INTEL  SNB      00000001 INTL 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD4000 000C64 (v01 NvORef NvOptTbl 00001000 INTL 20061109)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD3000 00026A (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DBG2 0x00000000C6FD1000 0000B4 (v00 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x408
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ0 used by override.
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ9 used by override.
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET id: 0x8086a301 base: 0xfed00000
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Core revision 20170831
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: 5 ACPI AML tables successfully acquired and loaded
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.040812] PM: Registering ACPI NVS region [mem 0xc6eef000-0xc6f9efff] (720896 bytes)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.040812] ACPI: bus type PCI registered
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.040812] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.044105] ACPI: Added _OSI(Module Device)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.044106] ACPI: Added _OSI(Processor Device)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.044107] ACPI: Added _OSI(3.0 _SCP Extensions)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.044108] ACPI: Added _OSI(Processor Aggregator Device)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.044110] ACPI: Added _OSI(Linux-Dell-Video)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.044112] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.044347] ACPI: Executed 1 blocks of module-level executable AML code
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.073811] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.073811] ACPI: Dynamic OEM Table Load:
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.073811] ACPI: SSDT 0xFFFF99A1277FC000 00083B (v01 PmRef  Cpu0Cst  00003001 INTL 20061109)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.073816] ACPI: Dynamic OEM Table Load:
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.073816] ACPI: SSDT 0xFFFF99A12702C000 000303 (v01 PmRef  ApIst    00003000 INTL 20061109)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.076310] ACPI: Dynamic OEM Table Load:
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.076318] ACPI: SSDT 0xFFFF99A127069200 000119 (v01 PmRef  ApCst    00003000 INTL 20061109)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.077975] ACPI: EC: EC started
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.077976] ACPI: EC: interrupt blocked
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.088115] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.088118] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.088120] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.088121] ACPI: Interpreter enabled
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.088158] ACPI: (supports S0 S3 S4 S5)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.088159] ACPI: Using IOAPIC for interrupt routing
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.088203] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.088594] ACPI: Enabled 7 GPEs in block 00 to 3F
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.101597] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-3e])
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.141000] ACPI: PCI Interrupt Link [LNKA] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.141118] ACPI: PCI Interrupt Link [LNKB] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.141236] ACPI: PCI Interrupt Link [LNKC] (IRQs 1 3 4 5 6 10 11 12 14 15) *7
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.141352] ACPI: PCI Interrupt Link [LNKD] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.141467] ACPI: PCI Interrupt Link [LNKE] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.141581] ACPI: PCI Interrupt Link [LNKF] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.141697] ACPI: PCI Interrupt Link [LNKG] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.141812] ACPI: PCI Interrupt Link [LNKH] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.142182] ACPI: EC: interrupt unblocked
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.142191] ACPI: EC: event unblocked
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.142199] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.142201] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.142521] ACPI: bus type USB registered
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.142521] PCI: Using ACPI for IRQ routing
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.158857] pnp: PnP ACPI init
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.159103] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.159144] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.159237] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.159360] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.159395] pnp 00:04: Plug and Play ACPI device, IDs ETD0504 PNP0f13 (active)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.159670] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    0.160142] pnp: PnP ACPI: found 6 devices
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    1.372386] ACPI: AC Adapter [ADP1] (on-line)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    1.372505] ACPI: Lid Switch [LID0]
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    1.372574] ACPI: Sleep Button [SLPB]
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    1.372639] ACPI: Power Button [PWRF]
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    1.374148] ACPI: Thermal Zone [TZS0] (53 C)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    1.374579] ACPI: Thermal Zone [TZS1] (48 C)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    1.375941] ACPI: Battery Slot [BAT0] (battery present)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    1.652390] ACPI Warning: \_SB.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    1.652892] ACPI Warning: \_SB.PCI0.PEG0.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    3.306851] ACPI: Video Device [PEGP] (multi-head: yes  rom: yes  post: no)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    3.308170] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.489627] ACPI Warning: SystemIO range 0x0000000000000428-0x000000000000042F conflicts with OpRegion 0x0000000000000400-0x000000000000047F (\PMIO) (20170831/utaddress-247)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.489635] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.489638] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.489645] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.489650] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.489652] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.489657] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.489662] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.489663] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.489669] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.489674] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 22 00:18:26 cipi-Aspire-V5-571G kernel: [    5.631039] acer_wmi: Acer Laptop ACPI-WMI Extras
+Oct 22 09:30:54 cipi-Aspire-V5-571G kernel: [  622.194299] ACPI: EC: interrupt blocked
+Oct 22 09:30:54 cipi-Aspire-V5-571G kernel: [  622.214452] ACPI: Preparing to enter system sleep state S3
+Oct 22 09:30:54 cipi-Aspire-V5-571G kernel: [  622.217766] ACPI: EC: event blocked
+Oct 22 09:30:54 cipi-Aspire-V5-571G kernel: [  622.217767] ACPI: EC: EC stopped
+Oct 22 09:30:54 cipi-Aspire-V5-571G kernel: [  622.285496] ACPI: Low-level resume complete
+Oct 22 09:30:54 cipi-Aspire-V5-571G kernel: [  622.285555] ACPI: EC: EC started
+Oct 22 09:30:54 cipi-Aspire-V5-571G kernel: [  622.300049] ACPI: Waking up from system sleep state S3
+Oct 22 09:30:54 cipi-Aspire-V5-571G kernel: [  622.312507] ACPI: EC: interrupt unblocked
+Oct 22 09:30:54 cipi-Aspire-V5-571G kernel: [  622.333711] ACPI: EC: event unblocked
+Oct 22 11:26:03 cipi-Aspire-V5-571G kernel: [ 1356.836826] ACPI: EC: interrupt blocked
+Oct 22 11:26:03 cipi-Aspire-V5-571G kernel: [ 1356.856841] ACPI: Preparing to enter system sleep state S3
+Oct 22 11:26:03 cipi-Aspire-V5-571G kernel: [ 1356.860335] ACPI: EC: event blocked
+Oct 22 11:26:03 cipi-Aspire-V5-571G kernel: [ 1356.860336] ACPI: EC: EC stopped
+Oct 22 11:26:03 cipi-Aspire-V5-571G kernel: [ 1356.927899] ACPI: Low-level resume complete
+Oct 22 11:26:03 cipi-Aspire-V5-571G kernel: [ 1356.927955] ACPI: EC: EC started
+Oct 22 11:26:03 cipi-Aspire-V5-571G kernel: [ 1356.942498] ACPI: Waking up from system sleep state S3
+Oct 22 11:26:03 cipi-Aspire-V5-571G kernel: [ 1356.954829] ACPI: EC: interrupt unblocked
+Oct 22 11:26:03 cipi-Aspire-V5-571G kernel: [ 1356.976061] ACPI: EC: event unblocked
+Oct 22 13:02:11 cipi-Aspire-V5-571G kernel: [ 6846.712205] ACPI: EC: interrupt blocked
+Oct 22 13:02:11 cipi-Aspire-V5-571G kernel: [ 6846.732219] ACPI: Preparing to enter system sleep state S3
+Oct 22 13:02:11 cipi-Aspire-V5-571G kernel: [ 6846.735783] ACPI: EC: event blocked
+Oct 22 13:02:11 cipi-Aspire-V5-571G kernel: [ 6846.735784] ACPI: EC: EC stopped
+Oct 22 13:02:11 cipi-Aspire-V5-571G kernel: [ 6846.803183] ACPI: Low-level resume complete
+Oct 22 13:02:11 cipi-Aspire-V5-571G kernel: [ 6846.803242] ACPI: EC: EC started
+Oct 22 13:02:11 cipi-Aspire-V5-571G kernel: [ 6846.817799] ACPI: Waking up from system sleep state S3
+Oct 22 13:02:11 cipi-Aspire-V5-571G kernel: [ 6846.830118] ACPI: EC: interrupt unblocked
+Oct 22 13:02:11 cipi-Aspire-V5-571G kernel: [ 6846.851410] ACPI: EC: event unblocked
+Oct 22 15:09:17 cipi-Aspire-V5-571G kernel: [ 8229.730701] ACPI: EC: interrupt blocked
+Oct 22 15:09:17 cipi-Aspire-V5-571G kernel: [ 8229.750554] ACPI: Preparing to enter system sleep state S3
+Oct 22 15:09:17 cipi-Aspire-V5-571G kernel: [ 8229.754105] ACPI: EC: event blocked
+Oct 22 15:09:17 cipi-Aspire-V5-571G kernel: [ 8229.754106] ACPI: EC: EC stopped
+Oct 22 15:09:17 cipi-Aspire-V5-571G kernel: [ 8229.821549] ACPI: Low-level resume complete
+Oct 22 15:09:17 cipi-Aspire-V5-571G kernel: [ 8229.821605] ACPI: EC: EC started
+Oct 22 15:09:17 cipi-Aspire-V5-571G kernel: [ 8229.835911] ACPI: Waking up from system sleep state S3
+Oct 22 15:09:17 cipi-Aspire-V5-571G kernel: [ 8229.848464] ACPI: EC: interrupt unblocked
+Oct 22 15:09:17 cipi-Aspire-V5-571G kernel: [ 8229.869613] ACPI: EC: event unblocked
+Oct 22 17:58:22 cipi-Aspire-V5-571G kernel: [15531.645721] ACPI: EC: interrupt blocked
+Oct 22 17:58:22 cipi-Aspire-V5-571G kernel: [15531.665856] ACPI: Preparing to enter system sleep state S3
+Oct 22 17:58:22 cipi-Aspire-V5-571G kernel: [15531.669385] ACPI: EC: event blocked
+Oct 22 17:58:22 cipi-Aspire-V5-571G kernel: [15531.669386] ACPI: EC: EC stopped
+Oct 22 17:58:22 cipi-Aspire-V5-571G kernel: [15531.736816] ACPI: Low-level resume complete
+Oct 22 17:58:22 cipi-Aspire-V5-571G kernel: [15531.736873] ACPI: EC: EC started
+Oct 22 17:58:22 cipi-Aspire-V5-571G kernel: [15531.751232] ACPI: Waking up from system sleep state S3
+Oct 22 17:58:22 cipi-Aspire-V5-571G kernel: [15531.763779] ACPI: EC: interrupt unblocked
+Oct 22 17:58:22 cipi-Aspire-V5-571G kernel: [15531.785094] ACPI: EC: event unblocked
+Oct 22 20:29:03 cipi-Aspire-V5-571G kernel: [18275.712914] ACPI: EC: interrupt blocked
+Oct 22 20:29:03 cipi-Aspire-V5-571G kernel: [18275.732624] ACPI: Preparing to enter system sleep state S3
+Oct 22 20:29:03 cipi-Aspire-V5-571G kernel: [18275.736310] ACPI: EC: event blocked
+Oct 22 20:29:03 cipi-Aspire-V5-571G kernel: [18275.736311] ACPI: EC: EC stopped
+Oct 22 20:29:03 cipi-Aspire-V5-571G kernel: [18275.803659] ACPI: Low-level resume complete
+Oct 22 20:29:03 cipi-Aspire-V5-571G kernel: [18275.803717] ACPI: EC: EC started
+Oct 22 20:29:03 cipi-Aspire-V5-571G kernel: [18275.818393] ACPI: Waking up from system sleep state S3
+Oct 22 20:29:03 cipi-Aspire-V5-571G kernel: [18275.830636] ACPI: EC: interrupt unblocked
+Oct 22 20:29:03 cipi-Aspire-V5-571G kernel: [18275.851945] ACPI: EC: event unblocked
+Oct 23 10:42:46 cipi-Aspire-V5-571G kernel: [36396.325836] ACPI: EC: interrupt blocked
+Oct 23 10:42:46 cipi-Aspire-V5-571G kernel: [36396.345666] ACPI: Preparing to enter system sleep state S3
+Oct 23 10:42:46 cipi-Aspire-V5-571G kernel: [36396.349204] ACPI: EC: event blocked
+Oct 23 10:42:46 cipi-Aspire-V5-571G kernel: [36396.349205] ACPI: EC: EC stopped
+Oct 23 10:42:46 cipi-Aspire-V5-571G kernel: [36396.416703] ACPI: Low-level resume complete
+Oct 23 10:42:46 cipi-Aspire-V5-571G kernel: [36396.416760] ACPI: EC: EC started
+Oct 23 10:42:46 cipi-Aspire-V5-571G kernel: [36396.431290] ACPI: Waking up from system sleep state S3
+Oct 23 10:42:46 cipi-Aspire-V5-571G kernel: [36396.447561] ACPI: EC: interrupt unblocked
+Oct 23 10:42:46 cipi-Aspire-V5-571G kernel: [36396.468880] ACPI: EC: event unblocked
+Oct 23 12:13:17 cipi-Aspire-V5-571G kernel: [37189.991377] ACPI: EC: interrupt blocked
+Oct 23 12:13:17 cipi-Aspire-V5-571G kernel: [37190.011211] ACPI: Preparing to enter system sleep state S3
+Oct 23 12:13:17 cipi-Aspire-V5-571G kernel: [37190.015078] ACPI: EC: event blocked
+Oct 23 12:13:17 cipi-Aspire-V5-571G kernel: [37190.015080] ACPI: EC: EC stopped
+Oct 23 12:13:17 cipi-Aspire-V5-571G kernel: [37190.082080] ACPI: Low-level resume complete
+Oct 23 12:13:17 cipi-Aspire-V5-571G kernel: [37190.082137] ACPI: EC: EC started
+Oct 23 12:13:17 cipi-Aspire-V5-571G kernel: [37190.096658] ACPI: Waking up from system sleep state S3
+Oct 23 12:13:17 cipi-Aspire-V5-571G kernel: [37190.109012] ACPI: EC: interrupt unblocked
+Oct 23 12:13:17 cipi-Aspire-V5-571G kernel: [37190.133691] ACPI: EC: event unblocked
+Oct 23 13:21:23 cipi-Aspire-V5-571G kernel: [39932.495874] ACPI: EC: interrupt blocked
+Oct 23 13:21:23 cipi-Aspire-V5-571G kernel: [39932.515889] ACPI: Preparing to enter system sleep state S3
+Oct 23 13:21:23 cipi-Aspire-V5-571G kernel: [39932.519820] ACPI: EC: event blocked
+Oct 23 13:21:23 cipi-Aspire-V5-571G kernel: [39932.519821] ACPI: EC: EC stopped
+Oct 23 13:21:23 cipi-Aspire-V5-571G kernel: [39932.586803] ACPI: Low-level resume complete
+Oct 23 13:21:23 cipi-Aspire-V5-571G kernel: [39932.586861] ACPI: EC: EC started
+Oct 23 13:21:23 cipi-Aspire-V5-571G kernel: [39932.601463] ACPI: Waking up from system sleep state S3
+Oct 23 13:21:23 cipi-Aspire-V5-571G kernel: [39932.609847] ACPI: EC: interrupt unblocked
+Oct 23 13:21:23 cipi-Aspire-V5-571G kernel: [39932.631036] ACPI: EC: event unblocked
+Oct 23 13:21:23 cipi-Aspire-V5-571G kernel: [39932.641790] ACPI: button: The lid device is not compliant to SW_LID.
+Oct 23 15:52:07 cipi-Aspire-V5-571G kernel: [47367.046146] ACPI: EC: interrupt blocked
+Oct 23 15:52:07 cipi-Aspire-V5-571G kernel: [47367.065970] ACPI: Preparing to enter system sleep state S3
+Oct 23 15:52:07 cipi-Aspire-V5-571G kernel: [47367.069010] ACPI: EC: event blocked
+Oct 23 15:52:07 cipi-Aspire-V5-571G kernel: [47367.069010] ACPI: EC: EC stopped
+Oct 23 15:52:07 cipi-Aspire-V5-571G kernel: [47367.133177] ACPI: Low-level resume complete
+Oct 23 15:52:07 cipi-Aspire-V5-571G kernel: [47367.133239] ACPI: EC: EC started
+Oct 23 15:52:07 cipi-Aspire-V5-571G kernel: [47367.147636] ACPI: Waking up from system sleep state S3
+Oct 23 15:52:07 cipi-Aspire-V5-571G kernel: [47367.160054] ACPI: EC: interrupt unblocked
+Oct 23 15:52:07 cipi-Aspire-V5-571G kernel: [47367.181320] ACPI: EC: event unblocked
+Oct 23 16:03:28 cipi-Aspire-V5-571G kernel: [47849.864432] ACPI: EC: interrupt blocked
+Oct 23 16:03:28 cipi-Aspire-V5-571G kernel: [47849.884241] ACPI: Preparing to enter system sleep state S3
+Oct 23 16:03:28 cipi-Aspire-V5-571G kernel: [47849.888129] ACPI: EC: event blocked
+Oct 23 16:03:28 cipi-Aspire-V5-571G kernel: [47849.888130] ACPI: EC: EC stopped
+Oct 23 16:03:28 cipi-Aspire-V5-571G kernel: [47849.955189] ACPI: Low-level resume complete
+Oct 23 16:03:28 cipi-Aspire-V5-571G kernel: [47849.955250] ACPI: EC: EC started
+Oct 23 16:03:28 cipi-Aspire-V5-571G kernel: [47849.969857] ACPI: Waking up from system sleep state S3
+Oct 23 16:03:28 cipi-Aspire-V5-571G kernel: [47849.986103] ACPI: EC: interrupt unblocked
+Oct 23 16:03:28 cipi-Aspire-V5-571G kernel: [47850.010872] ACPI: EC: event unblocked
+Oct 23 16:48:41 cipi-Aspire-V5-571G kernel: [50271.136373] ACPI: EC: interrupt blocked
+Oct 23 16:48:41 cipi-Aspire-V5-571G kernel: [50271.155851] ACPI: Preparing to enter system sleep state S3
+Oct 23 16:48:41 cipi-Aspire-V5-571G kernel: [50271.159741] ACPI: EC: event blocked
+Oct 23 16:48:41 cipi-Aspire-V5-571G kernel: [50271.159742] ACPI: EC: EC stopped
+Oct 23 16:48:41 cipi-Aspire-V5-571G kernel: [50271.226709] ACPI: Low-level resume complete
+Oct 23 16:48:41 cipi-Aspire-V5-571G kernel: [50271.226766] ACPI: EC: EC started
+Oct 23 16:48:41 cipi-Aspire-V5-571G kernel: [50271.241092] ACPI: Waking up from system sleep state S3
+Oct 23 16:48:41 cipi-Aspire-V5-571G kernel: [50271.253644] ACPI: EC: interrupt unblocked
+Oct 23 16:48:41 cipi-Aspire-V5-571G kernel: [50271.274970] ACPI: EC: event unblocked
+Oct 23 20:02:10 cipi-Aspire-V5-571G kernel: [58829.408839] ACPI: EC: interrupt blocked
+Oct 23 20:02:10 cipi-Aspire-V5-571G kernel: [58829.428952] ACPI: Preparing to enter system sleep state S3
+Oct 23 20:02:10 cipi-Aspire-V5-571G kernel: [58829.432606] ACPI: EC: event blocked
+Oct 23 20:02:10 cipi-Aspire-V5-571G kernel: [58829.432607] ACPI: EC: EC stopped
+Oct 23 20:02:10 cipi-Aspire-V5-571G kernel: [58829.500058] ACPI: Low-level resume complete
+Oct 23 20:02:10 cipi-Aspire-V5-571G kernel: [58829.500116] ACPI: EC: EC started
+Oct 23 20:02:10 cipi-Aspire-V5-571G kernel: [58829.514373] ACPI: Waking up from system sleep state S3
+Oct 23 20:02:10 cipi-Aspire-V5-571G kernel: [58829.526893] ACPI: EC: interrupt unblocked
+Oct 23 20:02:10 cipi-Aspire-V5-571G kernel: [58829.548157] ACPI: EC: event unblocked
+Oct 23 21:59:13 cipi-Aspire-V5-571G kernel: [62604.829939] ACPI: EC: interrupt blocked
+Oct 23 21:59:13 cipi-Aspire-V5-571G kernel: [62604.849776] ACPI: Preparing to enter system sleep state S3
+Oct 23 21:59:13 cipi-Aspire-V5-571G kernel: [62604.853655] ACPI: EC: event blocked
+Oct 23 21:59:13 cipi-Aspire-V5-571G kernel: [62604.853656] ACPI: EC: EC stopped
+Oct 23 21:59:13 cipi-Aspire-V5-571G kernel: [62604.920712] ACPI: Low-level resume complete
+Oct 23 21:59:13 cipi-Aspire-V5-571G kernel: [62604.920773] ACPI: EC: EC started
+Oct 23 21:59:13 cipi-Aspire-V5-571G kernel: [62604.938902] ACPI: Waking up from system sleep state S3
+Oct 23 21:59:13 cipi-Aspire-V5-571G kernel: [62604.951678] ACPI: EC: interrupt unblocked
+Oct 23 21:59:13 cipi-Aspire-V5-571G kernel: [62604.972868] ACPI: EC: event unblocked
+Oct 24 11:19:33 cipi-Aspire-V5-571G kernel: [68955.465227] ACPI: EC: interrupt blocked
+Oct 24 11:19:33 cipi-Aspire-V5-571G kernel: [68955.484696] ACPI: Preparing to enter system sleep state S3
+Oct 24 11:19:33 cipi-Aspire-V5-571G kernel: [68955.488181] ACPI: EC: event blocked
+Oct 24 11:19:33 cipi-Aspire-V5-571G kernel: [68955.488182] ACPI: EC: EC stopped
+Oct 24 11:19:33 cipi-Aspire-V5-571G kernel: [68955.555739] ACPI: Low-level resume complete
+Oct 24 11:19:33 cipi-Aspire-V5-571G kernel: [68955.555795] ACPI: EC: EC started
+Oct 24 11:19:33 cipi-Aspire-V5-571G kernel: [68955.573947] ACPI: Waking up from system sleep state S3
+Oct 24 11:19:33 cipi-Aspire-V5-571G kernel: [68955.586764] ACPI: EC: interrupt unblocked
+Oct 24 11:19:33 cipi-Aspire-V5-571G kernel: [68955.607970] ACPI: EC: event unblocked
+Oct 24 12:27:43 cipi-Aspire-V5-571G kernel: [70967.495199] ACPI: EC: interrupt blocked
+Oct 24 12:27:43 cipi-Aspire-V5-571G kernel: [70967.515300] ACPI: Preparing to enter system sleep state S3
+Oct 24 12:27:43 cipi-Aspire-V5-571G kernel: [70967.519076] ACPI: EC: event blocked
+Oct 24 12:27:43 cipi-Aspire-V5-571G kernel: [70967.519077] ACPI: EC: EC stopped
+Oct 24 12:27:43 cipi-Aspire-V5-571G kernel: [70967.586228] ACPI: Low-level resume complete
+Oct 24 12:27:43 cipi-Aspire-V5-571G kernel: [70967.586283] ACPI: EC: EC started
+Oct 24 12:27:43 cipi-Aspire-V5-571G kernel: [70967.603591] ACPI: Waking up from system sleep state S3
+Oct 24 12:27:43 cipi-Aspire-V5-571G kernel: [70967.617316] ACPI: EC: interrupt unblocked
+Oct 24 12:27:43 cipi-Aspire-V5-571G kernel: [70967.638362] ACPI: EC: event unblocked
+Oct 24 15:57:37 cipi-Aspire-V5-571G kernel: [79527.018975] ACPI: EC: interrupt blocked
+Oct 24 15:57:37 cipi-Aspire-V5-571G kernel: [79527.038385] ACPI: Preparing to enter system sleep state S3
+Oct 24 15:57:37 cipi-Aspire-V5-571G kernel: [79527.041981] ACPI: EC: event blocked
+Oct 24 15:57:37 cipi-Aspire-V5-571G kernel: [79527.041982] ACPI: EC: EC stopped
+Oct 24 15:57:37 cipi-Aspire-V5-571G kernel: [79527.109369] ACPI: Low-level resume complete
+Oct 24 15:57:37 cipi-Aspire-V5-571G kernel: [79527.109427] ACPI: EC: EC started
+Oct 24 15:57:37 cipi-Aspire-V5-571G kernel: [79527.123951] ACPI: Waking up from system sleep state S3
+Oct 24 15:57:37 cipi-Aspire-V5-571G kernel: [79527.136289] ACPI: EC: interrupt unblocked
+Oct 24 15:57:37 cipi-Aspire-V5-571G kernel: [79527.157628] ACPI: EC: event unblocked
+Oct 24 17:58:30 cipi-Aspire-V5-571G kernel: [80956.637050] ACPI: EC: interrupt blocked
+Oct 24 17:58:30 cipi-Aspire-V5-571G kernel: [80956.656974] ACPI: Preparing to enter system sleep state S3
+Oct 24 17:58:30 cipi-Aspire-V5-571G kernel: [80956.660484] ACPI: EC: event blocked
+Oct 24 17:58:30 cipi-Aspire-V5-571G kernel: [80956.660486] ACPI: EC: EC stopped
+Oct 24 17:58:30 cipi-Aspire-V5-571G kernel: [80956.727924] ACPI: Low-level resume complete
+Oct 24 17:58:30 cipi-Aspire-V5-571G kernel: [80956.727985] ACPI: EC: EC started
+Oct 24 17:58:30 cipi-Aspire-V5-571G kernel: [80956.742561] ACPI: Waking up from system sleep state S3
+Oct 24 17:58:30 cipi-Aspire-V5-571G kernel: [80956.754892] ACPI: EC: interrupt unblocked
+Oct 24 17:58:30 cipi-Aspire-V5-571G kernel: [80956.776183] ACPI: EC: event unblocked
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6eef000-0x00000000c6f9efff] ACPI NVS
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6f9f000-0x00000000c6ffefff] ACPI data
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: RSDP 0x00000000000F0120 000024 (v02 ACRSYS)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: XSDT 0x00000000C6FFE170 0000AC (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACP 0x00000000C6FED000 00010C (v05 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DSDT 0x00000000C6FF0000 00C539 (v02 ACRSYS IVB-CPT  00000000 INTL 20061109)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACS 0x00000000C6F7C000 000040
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FFD000 0001F9 (v01 ACRSYS PtidDevc 00001000 INTL 20061109)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: ASF! 0x00000000C6FEF000 0000A5 (v32 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET 0x00000000C6FEC000 000038 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: APIC 0x00000000C6FEB000 000098 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MCFG 0x00000000C6FEA000 00003C (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: WPBT 0x00000000C6FDB000 000046 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FPDT 0x00000000C6FDA000 000064 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD9000 0008E4 (v01 PmRef  Cpu0Ist  00003000 INTL 20061109)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD8000 000B22 (v01 PmRef  CpuPm    00003000 INTL 20061109)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD7000 00003E (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD6000 000042 (v01 PTL    COMBUF   00000001 PTL  00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MSDM 0x00000000C6F79000 000055 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DMAR 0x00000000C6FD5000 0000B8 (v01 INTEL  SNB      00000001 INTL 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD4000 000C64 (v01 NvORef NvOptTbl 00001000 INTL 20061109)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD3000 00026A (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DBG2 0x00000000C6FD1000 0000B4 (v00 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x408
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ0 used by override.
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ9 used by override.
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET id: 0x8086a301 base: 0xfed00000
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Core revision 20170831
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: 5 ACPI AML tables successfully acquired and loaded
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.040815] PM: Registering ACPI NVS region [mem 0xc6eef000-0xc6f9efff] (720896 bytes)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.040815] ACPI: bus type PCI registered
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.040815] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.044109] ACPI: Added _OSI(Module Device)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.044109] ACPI: Added _OSI(Processor Device)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.044109] ACPI: Added _OSI(3.0 _SCP Extensions)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.044109] ACPI: Added _OSI(Processor Aggregator Device)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.044110] ACPI: Added _OSI(Linux-Dell-Video)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.044112] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.044113] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.044350] ACPI: Executed 1 blocks of module-level executable AML code
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.073811] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.073811] ACPI: Dynamic OEM Table Load:
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.073811] ACPI: SSDT 0xFFFF9A6AE77FA000 00083B (v01 PmRef  Cpu0Cst  00003001 INTL 20061109)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.073815] ACPI: Dynamic OEM Table Load:
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.073815] ACPI: SSDT 0xFFFF9A6AE702C000 000303 (v01 PmRef  ApIst    00003000 INTL 20061109)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.076302] ACPI: Dynamic OEM Table Load:
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.076310] ACPI: SSDT 0xFFFF9A6AE7069400 000119 (v01 PmRef  ApCst    00003000 INTL 20061109)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.077958] ACPI: EC: EC started
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.077959] ACPI: EC: interrupt blocked
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.088121] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.088124] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.088126] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.088127] ACPI: Interpreter enabled
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.088163] ACPI: (supports S0 S3 S4 S5)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.088165] ACPI: Using IOAPIC for interrupt routing
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.088208] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.088597] ACPI: Enabled 7 GPEs in block 00 to 3F
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.101599] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-3e])
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.140997] ACPI: PCI Interrupt Link [LNKA] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.141116] ACPI: PCI Interrupt Link [LNKB] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.141234] ACPI: PCI Interrupt Link [LNKC] (IRQs 1 3 4 5 6 10 11 12 14 15) *7
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.141349] ACPI: PCI Interrupt Link [LNKD] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.141463] ACPI: PCI Interrupt Link [LNKE] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.141578] ACPI: PCI Interrupt Link [LNKF] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.141693] ACPI: PCI Interrupt Link [LNKG] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.141808] ACPI: PCI Interrupt Link [LNKH] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.142176] ACPI: EC: interrupt unblocked
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.142184] ACPI: EC: event unblocked
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.142192] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.142194] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.142517] ACPI: bus type USB registered
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.142517] PCI: Using ACPI for IRQ routing
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.158895] pnp: PnP ACPI init
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.159145] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.159183] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.159277] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.159399] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.159433] pnp 00:04: Plug and Play ACPI device, IDs ETD0504 PNP0f13 (active)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.159708] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    0.160181] pnp: PnP ACPI: found 6 devices
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    1.372718] ACPI: AC Adapter [ADP1] (on-line)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    1.372837] ACPI: Lid Switch [LID0]
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    1.372908] ACPI: Sleep Button [SLPB]
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    1.372984] ACPI: Power Button [PWRF]
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    1.374505] ACPI: Thermal Zone [TZS0] (56 C)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    1.374933] ACPI: Thermal Zone [TZS1] (45 C)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    1.376761] ACPI: Battery Slot [BAT0] (battery present)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    1.659237] ACPI Warning: \_SB.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    1.659743] ACPI Warning: \_SB.PCI0.PEG0.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    3.314740] ACPI: Video Device [PEGP] (multi-head: yes  rom: yes  post: no)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    3.316298] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.616453] ACPI Warning: SystemIO range 0x0000000000000428-0x000000000000042F conflicts with OpRegion 0x0000000000000400-0x000000000000047F (\PMIO) (20170831/utaddress-247)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.616463] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.616467] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.616473] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.616479] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.616480] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.616486] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.616492] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.616493] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.616498] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.616514] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 24 21:40:40 cipi-Aspire-V5-571G kernel: [    5.696833] acer_wmi: Acer Laptop ACPI-WMI Extras
+Oct 25 07:12:16 cipi-Aspire-V5-571G kernel: [30624.576962] ACPI: EC: interrupt blocked
+Oct 25 07:12:16 cipi-Aspire-V5-571G kernel: [30624.597048] ACPI: Preparing to enter system sleep state S3
+Oct 25 07:12:16 cipi-Aspire-V5-571G kernel: [30624.600683] ACPI: EC: event blocked
+Oct 25 07:12:16 cipi-Aspire-V5-571G kernel: [30624.600684] ACPI: EC: EC stopped
+Oct 25 07:12:16 cipi-Aspire-V5-571G kernel: [30624.668125] ACPI: Low-level resume complete
+Oct 25 07:12:16 cipi-Aspire-V5-571G kernel: [30624.668184] ACPI: EC: EC started
+Oct 25 07:12:16 cipi-Aspire-V5-571G kernel: [30624.682507] ACPI: Waking up from system sleep state S3
+Oct 25 07:12:16 cipi-Aspire-V5-571G kernel: [30624.694934] ACPI: EC: interrupt unblocked
+Oct 25 07:12:16 cipi-Aspire-V5-571G kernel: [30624.716121] ACPI: EC: event unblocked
+Oct 25 11:07:45 cipi-Aspire-V5-571G kernel: [43198.811440] ACPI: EC: interrupt blocked
+Oct 25 11:07:45 cipi-Aspire-V5-571G kernel: [43198.830979] ACPI: Preparing to enter system sleep state S3
+Oct 25 11:07:45 cipi-Aspire-V5-571G kernel: [43198.834617] ACPI: EC: event blocked
+Oct 25 11:07:45 cipi-Aspire-V5-571G kernel: [43198.834618] ACPI: EC: EC stopped
+Oct 25 11:07:45 cipi-Aspire-V5-571G kernel: [43198.901945] ACPI: Low-level resume complete
+Oct 25 11:07:45 cipi-Aspire-V5-571G kernel: [43198.902006] ACPI: EC: EC started
+Oct 25 11:07:45 cipi-Aspire-V5-571G kernel: [43198.916606] ACPI: Waking up from system sleep state S3
+Oct 25 11:07:45 cipi-Aspire-V5-571G kernel: [43198.932845] ACPI: EC: interrupt unblocked
+Oct 25 11:07:45 cipi-Aspire-V5-571G kernel: [43198.954145] ACPI: EC: event unblocked
+Oct 25 13:56:48 cipi-Aspire-V5-571G kernel: [52765.248894] ACPI: EC: interrupt blocked
+Oct 25 13:56:48 cipi-Aspire-V5-571G kernel: [52765.268986] ACPI: Preparing to enter system sleep state S3
+Oct 25 13:56:48 cipi-Aspire-V5-571G kernel: [52765.272641] ACPI: EC: event blocked
+Oct 25 13:56:48 cipi-Aspire-V5-571G kernel: [52765.272643] ACPI: EC: EC stopped
+Oct 25 13:56:48 cipi-Aspire-V5-571G kernel: [52765.339981] ACPI: Low-level resume complete
+Oct 25 13:56:48 cipi-Aspire-V5-571G kernel: [52765.340041] ACPI: EC: EC started
+Oct 25 13:56:48 cipi-Aspire-V5-571G kernel: [52765.354428] ACPI: Waking up from system sleep state S3
+Oct 25 13:56:48 cipi-Aspire-V5-571G kernel: [52765.366876] ACPI: EC: interrupt unblocked
+Oct 25 13:56:48 cipi-Aspire-V5-571G kernel: [52765.388087] ACPI: EC: event unblocked
+Oct 25 17:42:06 cipi-Aspire-V5-571G kernel: [59020.318917] ACPI: EC: interrupt blocked
+Oct 25 17:42:06 cipi-Aspire-V5-571G kernel: [59020.338904] ACPI: Preparing to enter system sleep state S3
+Oct 25 17:42:06 cipi-Aspire-V5-571G kernel: [59020.342651] ACPI: EC: event blocked
+Oct 25 17:42:06 cipi-Aspire-V5-571G kernel: [59020.342653] ACPI: EC: EC stopped
+Oct 25 17:42:06 cipi-Aspire-V5-571G kernel: [59020.409931] ACPI: Low-level resume complete
+Oct 25 17:42:06 cipi-Aspire-V5-571G kernel: [59020.409990] ACPI: EC: EC started
+Oct 25 17:42:06 cipi-Aspire-V5-571G kernel: [59020.424746] ACPI: Waking up from system sleep state S3
+Oct 25 17:42:06 cipi-Aspire-V5-571G kernel: [59020.445150] ACPI: EC: interrupt unblocked
+Oct 25 17:42:06 cipi-Aspire-V5-571G kernel: [59020.466404] ACPI: EC: event unblocked
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6eef000-0x00000000c6f9efff] ACPI NVS
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6f9f000-0x00000000c6ffefff] ACPI data
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: RSDP 0x00000000000F0120 000024 (v02 ACRSYS)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: XSDT 0x00000000C6FFE170 0000AC (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACP 0x00000000C6FED000 00010C (v05 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DSDT 0x00000000C6FF0000 00C539 (v02 ACRSYS IVB-CPT  00000000 INTL 20061109)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACS 0x00000000C6F7C000 000040
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FFD000 0001F9 (v01 ACRSYS PtidDevc 00001000 INTL 20061109)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: ASF! 0x00000000C6FEF000 0000A5 (v32 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET 0x00000000C6FEC000 000038 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: APIC 0x00000000C6FEB000 000098 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MCFG 0x00000000C6FEA000 00003C (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: WPBT 0x00000000C6FDB000 000046 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FPDT 0x00000000C6FDA000 000064 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD9000 0008E4 (v01 PmRef  Cpu0Ist  00003000 INTL 20061109)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD8000 000B22 (v01 PmRef  CpuPm    00003000 INTL 20061109)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD7000 00003E (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD6000 000042 (v01 PTL    COMBUF   00000001 PTL  00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MSDM 0x00000000C6F79000 000055 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DMAR 0x00000000C6FD5000 0000B8 (v01 INTEL  SNB      00000001 INTL 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD4000 000C64 (v01 NvORef NvOptTbl 00001000 INTL 20061109)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD3000 00026A (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DBG2 0x00000000C6FD1000 0000B4 (v00 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x408
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ0 used by override.
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ9 used by override.
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET id: 0x8086a301 base: 0xfed00000
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Core revision 20170831
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: 5 ACPI AML tables successfully acquired and loaded
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.040814] PM: Registering ACPI NVS region [mem 0xc6eef000-0xc6f9efff] (720896 bytes)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.040814] ACPI: bus type PCI registered
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.040814] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.044126] ACPI: Added _OSI(Module Device)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.044126] ACPI: Added _OSI(Processor Device)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.044126] ACPI: Added _OSI(3.0 _SCP Extensions)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.044126] ACPI: Added _OSI(Processor Aggregator Device)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.044126] ACPI: Added _OSI(Linux-Dell-Video)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.044126] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.044126] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.044344] ACPI: Executed 1 blocks of module-level executable AML code
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.073814] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.073814] ACPI: Dynamic OEM Table Load:
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.073814] ACPI: SSDT 0xFFFF96C8A7099000 00083B (v01 PmRef  Cpu0Cst  00003001 INTL 20061109)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.073819] ACPI: Dynamic OEM Table Load:
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.073819] ACPI: SSDT 0xFFFF96C8A717E800 000303 (v01 PmRef  ApIst    00003000 INTL 20061109)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.076302] ACPI: Dynamic OEM Table Load:
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.076310] ACPI: SSDT 0xFFFF96C8A7123600 000119 (v01 PmRef  ApCst    00003000 INTL 20061109)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.077965] ACPI: EC: EC started
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.077966] ACPI: EC: interrupt blocked
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.088115] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.088118] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.088121] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.088121] ACPI: Interpreter enabled
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.088158] ACPI: (supports S0 S3 S4 S5)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.088160] ACPI: Using IOAPIC for interrupt routing
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.088206] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.088594] ACPI: Enabled 7 GPEs in block 00 to 3F
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.101669] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-3e])
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.141004] ACPI: PCI Interrupt Link [LNKA] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.141123] ACPI: PCI Interrupt Link [LNKB] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.141241] ACPI: PCI Interrupt Link [LNKC] (IRQs 1 3 4 5 6 10 11 12 14 15) *7
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.141356] ACPI: PCI Interrupt Link [LNKD] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.141470] ACPI: PCI Interrupt Link [LNKE] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.141585] ACPI: PCI Interrupt Link [LNKF] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.141701] ACPI: PCI Interrupt Link [LNKG] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.141816] ACPI: PCI Interrupt Link [LNKH] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.142188] ACPI: EC: interrupt unblocked
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.142198] ACPI: EC: event unblocked
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.142207] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.142210] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.142546] ACPI: bus type USB registered
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.142546] PCI: Using ACPI for IRQ routing
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.158918] pnp: PnP ACPI init
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.159168] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.159207] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.159304] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.159429] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.159460] pnp 00:04: Plug and Play ACPI device, IDs ETD0504 PNP0f13 (active)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.159735] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    0.160208] pnp: PnP ACPI: found 6 devices
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    1.372762] ACPI: AC Adapter [ADP1] (on-line)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    1.372880] ACPI: Lid Switch [LID0]
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    1.372953] ACPI: Sleep Button [SLPB]
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    1.373024] ACPI: Power Button [PWRF]
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    1.374612] ACPI: Thermal Zone [TZS0] (50 C)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    1.375042] ACPI: Thermal Zone [TZS1] (45 C)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    1.376822] ACPI: Battery Slot [BAT0] (battery present)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    1.659445] ACPI Warning: \_SB.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    1.659954] ACPI Warning: \_SB.PCI0.PEG0.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    3.318812] ACPI: Video Device [PEGP] (multi-head: yes  rom: yes  post: no)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    3.320220] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.721601] ACPI Warning: SystemIO range 0x0000000000000428-0x000000000000042F conflicts with OpRegion 0x0000000000000400-0x000000000000047F (\PMIO) (20170831/utaddress-247)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.721611] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.721615] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.721622] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.721628] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.721629] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.721636] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.721641] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.721643] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.721649] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.721654] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 25 18:03:06 cipi-Aspire-V5-571G kernel: [    5.773695] acer_wmi: Acer Laptop ACPI-WMI Extras
+Oct 26 00:40:48 cipi-Aspire-V5-571G kernel: [ 4581.496724] ACPI: EC: interrupt blocked
+Oct 26 00:40:48 cipi-Aspire-V5-571G kernel: [ 4581.516590] ACPI: Preparing to enter system sleep state S3
+Oct 26 00:40:48 cipi-Aspire-V5-571G kernel: [ 4581.520238] ACPI: EC: event blocked
+Oct 26 00:40:48 cipi-Aspire-V5-571G kernel: [ 4581.520239] ACPI: EC: EC stopped
+Oct 26 00:40:48 cipi-Aspire-V5-571G kernel: [ 4581.587645] ACPI: Low-level resume complete
+Oct 26 00:40:48 cipi-Aspire-V5-571G kernel: [ 4581.587703] ACPI: EC: EC started
+Oct 26 00:40:48 cipi-Aspire-V5-571G kernel: [ 4581.602246] ACPI: Waking up from system sleep state S3
+Oct 26 00:40:48 cipi-Aspire-V5-571G kernel: [ 4581.618463] ACPI: EC: interrupt unblocked
+Oct 26 00:40:48 cipi-Aspire-V5-571G kernel: [ 4581.639682] ACPI: EC: event unblocked
+Oct 26 12:56:07 cipi-Aspire-V5-571G kernel: [ 8529.043064] ACPI: EC: interrupt blocked
+Oct 26 12:56:07 cipi-Aspire-V5-571G kernel: [ 8529.063195] ACPI: Preparing to enter system sleep state S3
+Oct 26 12:56:07 cipi-Aspire-V5-571G kernel: [ 8529.066822] ACPI: EC: event blocked
+Oct 26 12:56:07 cipi-Aspire-V5-571G kernel: [ 8529.066823] ACPI: EC: EC stopped
+Oct 26 12:56:07 cipi-Aspire-V5-571G kernel: [ 8529.134191] ACPI: Low-level resume complete
+Oct 26 12:56:07 cipi-Aspire-V5-571G kernel: [ 8529.134248] ACPI: EC: EC started
+Oct 26 12:56:07 cipi-Aspire-V5-571G kernel: [ 8529.150985] ACPI: Waking up from system sleep state S3
+Oct 26 12:56:07 cipi-Aspire-V5-571G kernel: [ 8529.165249] ACPI: EC: interrupt unblocked
+Oct 26 12:56:07 cipi-Aspire-V5-571G kernel: [ 8529.186404] ACPI: EC: event unblocked
+Oct 27 06:24:47 cipi-Aspire-V5-571G kernel: [11105.311630] ACPI: EC: interrupt blocked
+Oct 27 06:24:47 cipi-Aspire-V5-571G kernel: [11105.331691] ACPI: Preparing to enter system sleep state S3
+Oct 27 06:24:47 cipi-Aspire-V5-571G kernel: [11105.334983] ACPI: EC: event blocked
+Oct 27 06:24:47 cipi-Aspire-V5-571G kernel: [11105.334984] ACPI: EC: EC stopped
+Oct 27 06:24:47 cipi-Aspire-V5-571G kernel: [11105.402708] ACPI: Low-level resume complete
+Oct 27 06:24:47 cipi-Aspire-V5-571G kernel: [11105.402765] ACPI: EC: EC started
+Oct 27 06:24:47 cipi-Aspire-V5-571G kernel: [11105.419224] ACPI: Waking up from system sleep state S3
+Oct 27 06:24:47 cipi-Aspire-V5-571G kernel: [11105.433771] ACPI: EC: interrupt unblocked
+Oct 27 06:24:47 cipi-Aspire-V5-571G kernel: [11105.454962] ACPI: EC: event unblocked
+Oct 27 13:35:23 cipi-Aspire-V5-571G kernel: [12076.975771] ACPI: EC: interrupt blocked
+Oct 27 13:35:23 cipi-Aspire-V5-571G kernel: [12076.995811] ACPI: Preparing to enter system sleep state S3
+Oct 27 13:35:23 cipi-Aspire-V5-571G kernel: [12076.999708] ACPI: EC: event blocked
+Oct 27 13:35:23 cipi-Aspire-V5-571G kernel: [12076.999709] ACPI: EC: EC stopped
+Oct 27 13:35:23 cipi-Aspire-V5-571G kernel: [12077.066646] ACPI: Low-level resume complete
+Oct 27 13:35:23 cipi-Aspire-V5-571G kernel: [12077.066704] ACPI: EC: EC started
+Oct 27 13:35:23 cipi-Aspire-V5-571G kernel: [12077.084002] ACPI: Waking up from system sleep state S3
+Oct 27 13:35:23 cipi-Aspire-V5-571G kernel: [12077.097743] ACPI: EC: interrupt unblocked
+Oct 27 13:35:23 cipi-Aspire-V5-571G kernel: [12077.118876] ACPI: EC: event unblocked
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.388074] ACPI: EC: interrupt blocked
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.407966] ACPI: Preparing to enter system sleep state S3
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.411571] ACPI: EC: event blocked
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.411573] ACPI: EC: EC stopped
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.478916] ACPI: Low-level resume complete
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.478972] ACPI: EC: EC started
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.493515] ACPI: Waking up from system sleep state S3
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.505850] ACPI: EC: interrupt unblocked
+Oct 28 10:37:26 cipi-Aspire-V5-571G kernel: [30163.530435] ACPI: EC: event unblocked
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.613369] ACPI: EC: interrupt blocked
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.633002] ACPI: Preparing to enter system sleep state S3
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.636687] ACPI: EC: event blocked
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.636688] ACPI: EC: EC stopped
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.703960] ACPI: Low-level resume complete
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.704017] ACPI: EC: EC started
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.718520] ACPI: Waking up from system sleep state S3
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.730890] ACPI: EC: interrupt unblocked
+Oct 28 11:35:18 cipi-Aspire-V5-571G kernel: [30656.752143] ACPI: EC: event unblocked
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.337547] ACPI: EC: interrupt blocked
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.356841] ACPI: Preparing to enter system sleep state S3
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.360564] ACPI: EC: event blocked
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.360566] ACPI: EC: EC stopped
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.427735] ACPI: Low-level resume complete
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.427791] ACPI: EC: EC started
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.442337] ACPI: Waking up from system sleep state S3
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.454681] ACPI: EC: interrupt unblocked
+Oct 28 13:38:17 cipi-Aspire-V5-571G kernel: [31206.479176] ACPI: EC: event unblocked
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6eef000-0x00000000c6f9efff] ACPI NVS
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6f9f000-0x00000000c6ffefff] ACPI data
+Oct 28 17:06:53 cipi-Aspire-V5-571G systemd[1]: Started ACPI Events Check.
+Oct 28 17:06:53 cipi-Aspire-V5-571G systemd[1]: Listening on ACPID Listen Socket.
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: RSDP 0x00000000000F0120 000024 (v02 ACRSYS)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: XSDT 0x00000000C6FFE170 0000AC (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACP 0x00000000C6FED000 00010C (v05 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DSDT 0x00000000C6FF0000 00C539 (v02 ACRSYS IVB-CPT  00000000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACS 0x00000000C6F7C000 000040
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FFD000 0001F9 (v01 ACRSYS PtidDevc 00001000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: ASF! 0x00000000C6FEF000 0000A5 (v32 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET 0x00000000C6FEC000 000038 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: APIC 0x00000000C6FEB000 000098 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MCFG 0x00000000C6FEA000 00003C (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: WPBT 0x00000000C6FDB000 000046 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FPDT 0x00000000C6FDA000 000064 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD9000 0008E4 (v01 PmRef  Cpu0Ist  00003000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD8000 000B22 (v01 PmRef  CpuPm    00003000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD7000 00003E (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD6000 000042 (v01 PTL    COMBUF   00000001 PTL  00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MSDM 0x00000000C6F79000 000055 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DMAR 0x00000000C6FD5000 0000B8 (v01 INTEL  SNB      00000001 INTL 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD4000 000C64 (v01 NvORef NvOptTbl 00001000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD3000 00026A (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DBG2 0x00000000C6FD1000 0000B4 (v00 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x408
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ0 used by override.
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ9 used by override.
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET id: 0x8086a301 base: 0xfed00000
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Core revision 20170831
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: 5 ACPI AML tables successfully acquired and loaded
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.040816] PM: Registering ACPI NVS region [mem 0xc6eef000-0xc6f9efff] (720896 bytes)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.040816] ACPI: bus type PCI registered
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.040816] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Module Device)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Processor Device)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(3.0 _SCP Extensions)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Processor Aggregator Device)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Linux-Dell-Video)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044112] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.044351] ACPI: Executed 1 blocks of module-level executable AML code
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.073810] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.073810] ACPI: Dynamic OEM Table Load:
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.073810] ACPI: SSDT 0xFFFF9320E77FE000 00083B (v01 PmRef  Cpu0Cst  00003001 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.073815] ACPI: Dynamic OEM Table Load:
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.073815] ACPI: SSDT 0xFFFF9320E702A000 000303 (v01 PmRef  ApIst    00003000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.076312] ACPI: Dynamic OEM Table Load:
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.076319] ACPI: SSDT 0xFFFF9320E7068000 000119 (v01 PmRef  ApCst    00003000 INTL 20061109)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.077978] ACPI: EC: EC started
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.077979] ACPI: EC: interrupt blocked
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088115] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088118] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088120] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088121] ACPI: Interpreter enabled
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088158] ACPI: (supports S0 S3 S4 S5)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088159] ACPI: Using IOAPIC for interrupt routing
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088203] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.088594] ACPI: Enabled 7 GPEs in block 00 to 3F
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.101604] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-3e])
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141000] ACPI: PCI Interrupt Link [LNKA] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141119] ACPI: PCI Interrupt Link [LNKB] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141237] ACPI: PCI Interrupt Link [LNKC] (IRQs 1 3 4 5 6 10 11 12 14 15) *7
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141352] ACPI: PCI Interrupt Link [LNKD] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141466] ACPI: PCI Interrupt Link [LNKE] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141581] ACPI: PCI Interrupt Link [LNKF] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141696] ACPI: PCI Interrupt Link [LNKG] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.141811] ACPI: PCI Interrupt Link [LNKH] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142181] ACPI: EC: interrupt unblocked
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142190] ACPI: EC: event unblocked
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142197] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142200] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142523] ACPI: bus type USB registered
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.142523] PCI: Using ACPI for IRQ routing
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.158757] pnp: PnP ACPI init
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159009] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159047] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159141] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159262] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159295] pnp 00:04: Plug and Play ACPI device, IDs ETD0504 PNP0f13 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.159571] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    0.160046] pnp: PnP ACPI: found 6 devices
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.372260] ACPI: AC Adapter [ADP1] (on-line)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.372380] ACPI: Lid Switch [LID0]
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.372466] ACPI: Sleep Button [SLPB]
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.372538] ACPI: Power Button [PWRF]
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.374062] ACPI: Thermal Zone [TZS0] (39 C)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.374497] ACPI: Thermal Zone [TZS1] (26 C)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.375691] ACPI: Battery Slot [BAT0] (battery present)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.647043] ACPI Warning: \_SB.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    1.647554] ACPI Warning: \_SB.PCI0.PEG0.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    3.307000] ACPI: Video Device [PEGP] (multi-head: yes  rom: yes  post: no)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    3.308330] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569023] ACPI Warning: SystemIO range 0x0000000000000428-0x000000000000042F conflicts with OpRegion 0x0000000000000400-0x000000000000047F (\PMIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569032] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569035] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569042] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569048] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569050] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569056] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569062] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569063] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569070] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.569075] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 28 17:06:53 cipi-Aspire-V5-571G kernel: [    6.660258] acer_wmi: Acer Laptop ACPI-WMI Extras
+Oct 28 17:06:53 cipi-Aspire-V5-571G systemd[1]: Started ACPI event daemon.
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.783935] ACPI: EC: interrupt blocked
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.804065] ACPI: Preparing to enter system sleep state S3
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.807533] ACPI: EC: event blocked
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.807534] ACPI: EC: EC stopped
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.875131] ACPI: Low-level resume complete
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.875192] ACPI: EC: EC started
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.889528] ACPI: Waking up from system sleep state S3
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.902054] ACPI: EC: interrupt unblocked
+Oct 28 19:20:26 cipi-Aspire-V5-571G kernel: [ 2339.923255] ACPI: EC: event unblocked
+Oct 28 20:52:25 cipi-Aspire-V5-571G systemd[1]: Stopping ACPI event daemon...
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6eef000-0x00000000c6f9efff] ACPI NVS
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] BIOS-e820: [mem 0x00000000c6f9f000-0x00000000c6ffefff] ACPI data
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: RSDP 0x00000000000F0120 000024 (v02 ACRSYS)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: XSDT 0x00000000C6FFE170 0000AC (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACP 0x00000000C6FED000 00010C (v05 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DSDT 0x00000000C6FF0000 00C539 (v02 ACRSYS IVB-CPT  00000000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FACS 0x00000000C6F7C000 000040
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FFD000 0001F9 (v01 ACRSYS PtidDevc 00001000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: ASF! 0x00000000C6FEF000 0000A5 (v32 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET 0x00000000C6FEC000 000038 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: APIC 0x00000000C6FEB000 000098 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MCFG 0x00000000C6FEA000 00003C (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: WPBT 0x00000000C6FDB000 000046 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: FPDT 0x00000000C6FDA000 000064 (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD9000 0008E4 (v01 PmRef  Cpu0Ist  00003000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD8000 000B22 (v01 PmRef  CpuPm    00003000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD7000 00003E (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD6000 000042 (v01 PTL    COMBUF   00000001 PTL  00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: MSDM 0x00000000C6F79000 000055 (v03 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DMAR 0x00000000C6FD5000 0000B8 (v01 INTEL  SNB      00000001 INTL 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: SSDT 0x00000000C6FD4000 000C64 (v01 NvORef NvOptTbl 00001000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: UEFI 0x00000000C6FD3000 00026A (v01 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: DBG2 0x00000000C6FD1000 0000B4 (v00 ACRSYS ACRPRDCT 00000001 ANNI 00000001)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x408
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ0 used by override.
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: IRQ9 used by override.
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: HPET id: 0x8086a301 base: 0xfed00000
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: Core revision 20170831
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.000000] ACPI: 5 ACPI AML tables successfully acquired and loaded
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.040812] PM: Registering ACPI NVS region [mem 0xc6eef000-0xc6f9efff] (720896 bytes)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.040812] ACPI: bus type PCI registered
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.040812] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044105] ACPI: Added _OSI(Module Device)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044105] ACPI: Added _OSI(Processor Device)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044107] ACPI: Added _OSI(3.0 _SCP Extensions)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044108] ACPI: Added _OSI(Processor Aggregator Device)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044109] ACPI: Added _OSI(Linux-Dell-Video)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044111] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044112] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.044347] ACPI: Executed 1 blocks of module-level executable AML code
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.073808] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.073808] ACPI: Dynamic OEM Table Load:
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.073808] ACPI: SSDT 0xFFFFA0C1677F9000 00083B (v01 PmRef  Cpu0Cst  00003001 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.073812] ACPI: Dynamic OEM Table Load:
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.073812] ACPI: SSDT 0xFFFFA0C16702E400 000303 (v01 PmRef  ApIst    00003000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.076298] ACPI: Dynamic OEM Table Load:
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.076306] ACPI: SSDT 0xFFFFA0C16706B000 000119 (v01 PmRef  ApCst    00003000 INTL 20061109)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.077955] ACPI: EC: EC started
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.077955] ACPI: EC: interrupt blocked
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088120] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as first EC
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088123] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088125] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088126] ACPI: Interpreter enabled
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088162] ACPI: (supports S0 S3 S4 S5)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088163] ACPI: Using IOAPIC for interrupt routing
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088207] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.088597] ACPI: Enabled 7 GPEs in block 00 to 3F
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.101608] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-3e])
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141000] ACPI: PCI Interrupt Link [LNKA] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141119] ACPI: PCI Interrupt Link [LNKB] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141237] ACPI: PCI Interrupt Link [LNKC] (IRQs 1 3 4 5 6 10 11 12 14 15) *7
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141353] ACPI: PCI Interrupt Link [LNKD] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141467] ACPI: PCI Interrupt Link [LNKE] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141582] ACPI: PCI Interrupt Link [LNKF] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141697] ACPI: PCI Interrupt Link [LNKG] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.141812] ACPI: PCI Interrupt Link [LNKH] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142181] ACPI: EC: interrupt unblocked
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142190] ACPI: EC: event unblocked
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142197] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x17, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142200] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142522] ACPI: bus type USB registered
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.142522] PCI: Using ACPI for IRQ routing
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.158839] pnp: PnP ACPI init
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159086] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159124] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159219] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159341] pnp 00:03: Plug and Play ACPI device, IDs PNP0303 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159374] pnp 00:04: Plug and Play ACPI device, IDs ETD0504 PNP0f13 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.159650] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    0.160125] pnp: PnP ACPI: found 6 devices
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.372459] ACPI: AC Adapter [ADP1] (off-line)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.372579] ACPI: Lid Switch [LID0]
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.372652] ACPI: Sleep Button [SLPB]
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.372721] ACPI: Power Button [PWRF]
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.374185] ACPI: Thermal Zone [TZS0] (37 C)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.374618] ACPI: Thermal Zone [TZS1] (24 C)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.376292] ACPI: Battery Slot [BAT0] (battery present)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.669157] ACPI Warning: \_SB.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    1.669665] ACPI Warning: \_SB.PCI0.PEG0.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    3.327002] ACPI: Video Device [PEGP] (multi-head: yes  rom: yes  post: no)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    3.328299] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.920079] ACPI Warning: SystemIO range 0x0000000000000428-0x000000000000042F conflicts with OpRegion 0x0000000000000400-0x000000000000047F (\PMIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.920089] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.920093] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921033] ACPI Warning: SystemIO range 0x0000000000000540-0x000000000000054F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921039] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921042] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921047] ACPI Warning: SystemIO range 0x0000000000000530-0x000000000000053F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921052] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921054] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x0000000000000563 (\GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921059] ACPI Warning: SystemIO range 0x0000000000000500-0x000000000000052F conflicts with OpRegion 0x0000000000000500-0x000000000000055F (\_SB.PCI0.PEG0.PEGP.GPIO) (20170831/utaddress-247)
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    5.921064] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Oct 29 13:40:23 cipi-Aspire-V5-571G kernel: [    6.008087] acer_wmi: Acer Laptop ACPI-WMI Extras
+Oct 29 13:40:23 cipi-Aspire-V5-571G systemd[1]: Listening on ACPID Listen Socket.
+Oct 29 13:40:23 cipi-Aspire-V5-571G systemd[1]: Started ACPI Events Check.
+Oct 29 13:40:23 cipi-Aspire-V5-571G systemd[1]: Started ACPI event daemon.
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.292154] ACPI: EC: interrupt blocked
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.312122] ACPI: Preparing to enter system sleep state S3
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.315574] ACPI: EC: event blocked
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.315576] ACPI: EC: EC stopped
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.383189] ACPI: Low-level resume complete
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.383242] ACPI: EC: EC started
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.399578] ACPI: Waking up from system sleep state S3
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.414213] ACPI: EC: interrupt unblocked
+Oct 27 21:36:44 cipi-Aspire-V5-571G kernel: [14447.435533] ACPI: EC: event unblocked
